@@ -1,0 +1,39 @@
+.Stats4{
+    margin-top: 50px;
+    margin-left: 48px;
+    display: block;
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    max-width: 170px;
+    max-height: 75px;
+    padding: 10px 40px 10px 10px;
+    position: relative;
+    padding: 10px;
+    box-shadow: 5px 10px 8px #888888;
+    overflow: hidden;
+    font-size: 14px;
+}
+
+.ColorOverlap4{
+    position: absolute;
+    width: 113.69px;
+    height: 110.23px;
+    left: 100.45px;
+    top: -40px;
+    background: #637381;
+    opacity: 0.3;
+    transform: matrix(0.45, -0.70, 0.65, 0.40, 0, 0);
+    border-radius: 40px;
+}
+
+.ColorTwoOverlap4{
+    position: absolute;
+    width: 96.79px;
+    height: 114.47px;
+    left: 118.45px;
+    top: -40px;
+    background: #637381;
+    opacity: 0.7;
+    transform: matrix(0.45, -0.70, 0.65, 0.40, 0, 0);
+    border-radius: 40px;
+}
